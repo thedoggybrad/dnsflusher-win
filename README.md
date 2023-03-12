@@ -14,7 +14,7 @@ In CMD File Format (Safer): https://github.com/thedoggybrad/dnsflusher-win/relea
 <br>
 In BAT File Format (Legacy): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.bat
 
-#.CMD vs .BAT (What are these?)
+# .CMD vs .BAT (What are these?)
 *CMD files have the current version of Microsoft language while BAT has the older version of the Microsoft language.
 <br>
 *CMD is backward compatible while BAT is not backward compatible.
