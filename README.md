@@ -1,4 +1,4 @@
-# dnsflusher
+# TheDoggyBrad's DNS Cache Flusher for Windows
 TheDoggyBrad's DNS Cache Flusher for Windows helps you flush your dns cache easily by just pressing the enter key or the buttons 1 or 2.
 <br>
 Flushing your DNS cache helps you to fix 404 errors and problems related to your DNS cache not up to date.
