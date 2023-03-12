@@ -11,4 +11,5 @@ This program is distributed via MIT License.
 
 # Downloads
 In CMD File Format (Safer): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.cmd
+<br>
 In BAT File Format (Legacy): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.bat
