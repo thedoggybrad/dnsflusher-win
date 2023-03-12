@@ -8,3 +8,7 @@ Note: Flushing your DNS will make its first time load much slower, but next time
 Compatible for Windows XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts.
 <br>
 This program is distributed via MIT License.
+
+# Downloads
+In CMD File Format (Safer): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.cmd
+In BAT File Format (Legacy): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.bat
