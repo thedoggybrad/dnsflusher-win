@@ -9,12 +9,12 @@ Compatible for Windows XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and
 <br>
 This program is distributed via MIT License.
 
-# Downloads
+## Downloads
 In CMD File Format (Safer): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.cmd
 <br>
 In BAT File Format (Legacy): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.bat
 
-# .CMD vs .BAT (What are these?)
+## .CMD vs .BAT (What are these?)
 *CMD files have the current version of Microsoft language while BAT has the older version of the Microsoft language.
 <br>
 *CMD is backward compatible while BAT is not backward compatible.
@@ -24,3 +24,5 @@ In BAT File Format (Legacy): https://github.com/thedoggybrad/dnsflusher-win/rele
 *CMD has improved scripting because it is developed for Windows NT. BAT scripts are older version as it is developed for DOS command prompt.
 <br>
 *CMD is much safer than BAT file format.
+
+#
