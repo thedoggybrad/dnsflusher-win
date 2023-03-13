@@ -29,3 +29,6 @@ In BAT File Format - Windows Command Processor (Legacy): https://github.com/thed
 1.) Make a Release that runs on Microsoft/Windows PowerShell. Right now this software only runs via CMD.
 <br>
 2.) Make a GUI-based app to easily flush your dns. Right now only commandline is being used.
+<br>
+<br>
+Note: All of these future plans may or may not be implemented in this software.
