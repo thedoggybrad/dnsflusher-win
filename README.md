@@ -25,4 +25,7 @@ In BAT File Format (Legacy): https://github.com/thedoggybrad/dnsflusher-win/rele
 <br>
 *CMD is much safer than BAT file format.
 
-#
+## Future Plans (RoadMap)
+1.) Make a Release that runs on Microsoft/Windows PowerShell. Right now this software only runs via CMD.
+<br>
+2.) Make a GUI-based app to easily flush your dns. Right now only commandline is being used.
