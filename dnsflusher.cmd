@@ -4,7 +4,6 @@ Title: TheDoggyBrad's DNS Cache Flusher for Windows (Version 1.0)
 ECHO TheDoggyBrad's DNS Cache Flusher for Windows (Version 1.0)
 ECHO Flushing your DNS cache helps you to fix 404 errors and problems related to your DNS cache not up to date.
 ECHO Note: Flushing your DNS will make its first time load much slower, but next time, it will load the same as before.
-ECHO Compatible for Windows XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts.
 ECHO Pressing the "ENTER" key will show you the Main Menu.
 ECHO This program is distributed via MIT License.
 pause
