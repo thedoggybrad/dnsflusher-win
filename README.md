@@ -5,7 +5,7 @@ Flushing your DNS cache helps you to fix 404 errors and problems related to your
 <br>
 Note: Flushing your DNS will make its first time load much slower, but next time, it will load the same as before.
 <br>
-Compatible for Windows XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts (All File Formats).
+Compatible for Windows XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts (GUI, CMD, BAT).
 <br>
 Note: Only the .bat file is the compatible format for Windows 95, 98, NT4, 2000/NT5.
 <br>
