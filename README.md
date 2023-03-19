@@ -10,25 +10,16 @@ Compatible for Windows XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and
 This program is distributed via MIT License.
 
 ## Downloads
-In CMD File Format - Windows Command Processor (Safer): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.cmd
+*In CMD File Format - Windows Command Processor (Safer): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.cmd
 <br>
-In BAT File Format - Windows Command Processor (Legacy): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.bat
-
-## .CMD vs .BAT (What are these?)
-*CMD files have the current version of Microsoft language while BAT has the older version of the Microsoft language.
+*In BAT File Format - Windows Command Processor (Legacy): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.0/dnsflusher.bat
 <br>
-*CMD is backward compatible while BAT is not backward compatible.
+*In Portable EXE format - Win32 GUI App: https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.1/DNS.Cache.Flusher.for.Windows.exe
 <br>
-*CMD runs in most command.com scripts whereas BAT by itself will not run in command.com scripts unless made to do so.
-<br>
-*CMD has improved scripting because it is developed for Windows NT. BAT scripts are older version as it is developed for DOS command prompt.
-<br>
-*CMD is much safer than BAT file format.
+*In ZIP Setup Format - Win32 GUI App Setup File: https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.1/SETUP.DNS.CACHE.FLUSHER.zip
 
 ## Future Plans (RoadMap)
-1.) Make a Release that runs on Microsoft/Windows PowerShell. Right now this software only runs via CMD.
-<br>
-2.) Make a GUI-based app to easily flush your dns. Right now only commandline is being used.
+1.) Make a Release that runs on Microsoft/Windows PowerShell. Right now this software only runs via CMD and a Win32 GUI App.
 <br>
 <br>
 Note: All of these future plans may or may not be implemented in this software.
