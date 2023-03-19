@@ -35,7 +35,7 @@ https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflushe
 
 ## How everything is built and how I can modify or view the code?
 ### CMD/BAT File
-It is built using the traditional Windows NotePad, but you can view/modify the code using other Notepads such as NotePad++. The .bat filenruns on COMMAND.COM (via NTVDM) or CMD.EXE and .cmd runs only on CMD.EXE.
+It is built using the traditional Windows NotePad, but you can view/modify the code using other Notepads such as NotePad++. The .bat file runs on COMMAND.COM (via NTVDM) or CMD.EXE and .cmd runs only on CMD.EXE.
 ### PS1 File
 It is built from Windows PowerShell ISE and modified a bit using NotePad, to modify the code use either PowerShell ISE or Notepad applications. It runs on both Windows PowerShell (.NET Framework) and Microsoft PowerShell (.NET Core)
 ### Portable EXE/SETUP ZIP
