@@ -32,3 +32,11 @@ https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS
 <br>
 ### In PS1 PowerShell Format - PowerShell App (More Modern) 
 https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1
+
+## How everything is built and how I can modify or view the code?
+### CMD/BAT File
+It is built using the traditional Windows NotePad, but you can view/modify the code using other Notepads such as NotePad++.
+### PS1 File
+It is built from Windows PowerShell ISE and modified a bit using NotePad, to modify the code use either PowerShell ISE or Notepad applications.
+### Portable EXE/SETUP ZIP
+It is built using Visual Basic 2015. To view/modify the code just open the project (.sln) file on Visual Basic 2015 or higher (not lower).
