@@ -7,6 +7,8 @@ Note: Flushing your DNS will make its first time load much slower, but next time
 <br>
 Compatible for Windows XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts.
 <br>
+Note: Only the .bat file is the compatible format for Windows 95, 98, NT4, 2000/NT5.
+<br>
 This program is distributed via MIT License.
 
 ## Downloads
