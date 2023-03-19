@@ -27,9 +27,3 @@ Windows 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts
 *In ZIP Setup Format - Win32 GUI App Setup File (Fixed Usage): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip
 <br>
 *In PS1 PowerShell Format - PowerShell App (More Modern): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1
-
-## Future Plans (RoadMap)
-1.) Make a Release that runs on Microsoft/Windows PowerShell. Right now this software only runs via CMD and a Win32 GUI App.
-<br>
-<br>
-Note: All of these future plans may or may not be implemented in this software.
