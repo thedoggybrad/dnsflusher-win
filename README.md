@@ -40,3 +40,8 @@ It is built using the traditional Windows NotePad, but you can view/modify the c
 It is built from Windows PowerShell ISE and modified a bit using NotePad, to modify the code use either PowerShell ISE or Notepad applications. It runs on both Windows PowerShell (.NET Framework) and Microsoft PowerShell (.NET Core)
 ### Portable EXE/SETUP ZIP
 It is built using Visual Basic 2015. To view/modify the code just open the project (.sln) file on Visual Basic 2015 or higher (not lower). This runs on .NET Framework 2.0 but you can change it in Visual Basic's Application Options.
+
+# How every file format can do the same job?
+Well, every file format this repository offer is just sending the command "ipconfig /flushdns" to flush your dns cache either in PowerShell, Windows Command Processor, COMMAND.COM (via NTVDM) or via the system shell. 
+<br>
+There is no absolute need of heavily porting everything to every file format this repository offers.
