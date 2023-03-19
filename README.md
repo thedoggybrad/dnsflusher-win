@@ -9,6 +9,8 @@
 <br>
 *Note: Only the .bat file is the compatible format for Windows 95, 98, NT4, 2000/NT5.
 <br>
+*Note: The PowerShell version can only run from Windows 7 and above.
+<br>
 *This program is distributed via MIT License.
 
 ## Downloads
@@ -19,6 +21,7 @@
 *In Portable EXE format - Win32 GUI App (Easy to Run): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.1/DNS.Cache.Flusher.for.Windows.exe
 <br>
 *In ZIP Setup Format - Win32 GUI App Setup File (Fixed Usage): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.1/SETUP.DNS.CACHE.FLUSHER.zip
+*In PS1 PowerShell Format - PowerShell App (More Modern): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2/dnsflusher.ps1
 
 ## Future Plans (RoadMap)
 1.) Make a Release that runs on Microsoft/Windows PowerShell. Right now this software only runs via CMD and a Win32 GUI App.
