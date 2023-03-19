@@ -21,7 +21,7 @@ Windows 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts with Mi
 ### In CMD File Format - Windows Command Processor (Safer)
 https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd
 <br>
-### In BAT File Format - Command.com (Legacy)
+### In BAT File Format - COMMAND.COM via NTVDM/Windows Command Processor (Legacy)
 https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat
 <br>
 ### In Portable EXE format - Win32 GUI App (Easy to Run)
