@@ -18,12 +18,17 @@ Windows 98, NT4, 2000/NT5 (SP3) XP, Vista, 7, 8, 8.1, 10, 11 and their Windows S
 Windows 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts with Microsoft or Windows PowerShell enabled or installed
 
 ## Downloads
-*In CMD File Format - Windows Command Processor (Safer): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd
+### In CMD File Format - Windows Command Processor (Safer)
+https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd
 <br>
-*In BAT File Format - Windows Command Processor (Legacy): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat
+### In BAT File Format - Command.com (Legacy)
+https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat
 <br>
-*In Portable EXE format - Win32 GUI App (Easy to Run): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/DNS.Cache.Flusher.for.Windows.exe
+### In Portable EXE format - Win32 GUI App (Easy to Run)
+https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/DNS.Cache.Flusher.for.Windows.exe
 <br>
-*In ZIP Setup Format - Win32 GUI App Setup File (Fixed Usage): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip
+### In ZIP Setup Format - Win32 GUI App Setup File (Best for Fixed Usage)
+https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip
 <br>
-*In PS1 PowerShell Format - PowerShell App (More Modern): https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1
+### In PS1 PowerShell Format - PowerShell App (More Modern) 
+https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1
