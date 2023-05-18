@@ -36,6 +36,8 @@ Note: Unsigned executables, may trigger Windows Defender Smartscreen or even you
 <br>
 ### In PS1 PowerShell Format - PowerShell App (Newest and Very Safe) 
 https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1
+<br>
+Note: Unsigned script, you may need to enter "Set-ExecutionPolicy unrestricted" before running this script.
 
 ## How everything is built and how I can modify or view the code?
 ### CMD/BAT File
