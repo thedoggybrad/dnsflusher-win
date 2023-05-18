@@ -14,6 +14,8 @@ Windows NT4, 2000/NT5, XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and
 Windows 95, 98, NT4, 2000/NT5 XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts
 ### Portable EXE and Setup ZIP Format 
 Windows 98, NT4, 2000/NT5 (SP3) XP, Vista, 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts with .NET Framework 2.0 enabled or installed
+<br>
+Note: Unsigned executables, may trigger Windows Defender Smartscreen or even your antiviruses.
 ### Powershell File Format
 Windows 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts with Microsoft or Windows PowerShell enabled or installed
 
