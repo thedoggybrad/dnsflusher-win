@@ -19,19 +19,19 @@ Any versions of Windows 7, 8, 8.1, 10, 11 and their Windows Server and LTSC coun
 
 ## Downloads
 ### In CMD File Format - Windows Command Processor (Newer and Safer)
-[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd)
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd](Download Command Processor File)
 <br>
 ### In BAT File Format - COMMAND.COM via NTVDM/Windows Command Processor (Legacy and Older)
-[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat)
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat](Download Batch Fle)
 <br>
 ### In Portable EXE format - Win32 GUI App (Easily Transfer to other Devices)
-[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/DNS.Cache.Flusher.for.Windows.exe](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/DNS.Cache.Flusher.for.Windows.exe)
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/DNS.Cache.Flusher.for.Windows.exe](Download Executable File)
 <br>
 <br>
 Note: Unsigned executables, may trigger Windows Defender Smartscreen or even your antiviruses.
 <br>
 ### In ZIP Setup Format - Win32 GUI App Setup File (Best for Permanent/Long Term Usage)
-[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip)
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip](Download Setup File)
 <br>
 <br>
 Note: Unsigned executables, may trigger Windows Defender Smartscreen or even your antiviruses.
