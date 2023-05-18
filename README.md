@@ -58,8 +58,20 @@ Just click them after downloading. Super easy.
 Open Windows PowerShell or the new Microsoft PowerShell under administrator privileges and type the following comamnds:
 <br>
 > Set-ExecutionPolicy unrestricted
+> <br>
 > cd (WHATEVER DIRECTORY YOU DOWNLOADED THE FILE)
+> <br>
 > .\dnsflusher.ps1
+
+### Portable EXE
+Just click them after downloading.
+<br>
+Maybe, ignore the Windows SmartScreen warnings and also add the program to the exceptions list of your antivirus.
+
+### SETUP ZIP
+Extract the file and run the setup. Then run the program from the start menu.
+<br>
+Maybe, ignore the Windows SmartScreen warnings and also add the program to the exceptions list of your antivirus.
 
 ## How every file format can do the same job?
 Well, every file format this repository offer is just sending the command "ipconfig /flushdns" to flush your dns cache either in PowerShell, Windows Command Processor, COMMAND.COM (via NTVDM) or directly into system shell (similar in nature as Windows + R or the Windows Run dialog). 
