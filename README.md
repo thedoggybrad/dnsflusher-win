@@ -42,7 +42,7 @@ Note: Unsigned executables, may trigger Windows Defender Smartscreen or even you
 <br>
 Note: Unsigned script, you may need to enter "Set-ExecutionPolicy unrestricted" before running this script.
 
-## How can I run this file formats?
+## How can I run these file formats?
 ### CMD/BAT File
 Just click them after downloading. Super easy.
 
@@ -74,7 +74,7 @@ It is built from Windows PowerShell ISE and modified a bit using NotePad, to mod
 It is built using Visual Basic 2015. To view/modify the code just open the project (.sln) file on Visual Basic 2015 or higher (not lower). This runs on .NET Framework 2.0 but you can change it in Visual Basic's Application Options.
 
 
-## How every file format can do the same job?
+## How every file formats can do the same job?
 Well, every file format this repository offer is just sending the command "ipconfig /flushdns" to flush your dns cache either in PowerShell, Windows Command Processor, COMMAND.COM (via NTVDM) or directly into system shell (similar in nature as Windows + R or the Windows Run dialog). 
 <br>
 There is no absolute need of heavily porting everything to every file format this repository offers.
