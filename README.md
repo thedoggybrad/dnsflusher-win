@@ -42,14 +42,6 @@ Note: Unsigned executables, may trigger Windows Defender Smartscreen or even you
 <br>
 Note: Unsigned script, you may need to enter "Set-ExecutionPolicy unrestricted" before running this script.
 
-## How everything is built and how I can modify or view the code?
-### CMD/BAT File
-It is built using the traditional Windows NotePad, but you can view/modify the code using other Notepads such as NotePad++. The .bat file runs on COMMAND.COM (via NTVDM) or CMD.EXE and .cmd runs only on CMD.EXE.
-### PS1 File
-It is built from Windows PowerShell ISE and modified a bit using NotePad, to modify the code use either PowerShell ISE or Notepad applications. It runs on both Windows PowerShell (.NET Framework) and Microsoft PowerShell (.NET Core)
-### Portable EXE/SETUP ZIP
-It is built using Visual Basic 2015. To view/modify the code just open the project (.sln) file on Visual Basic 2015 or higher (not lower). This runs on .NET Framework 2.0 but you can change it in Visual Basic's Application Options.
-
 ## How can I run this file formats?
 ### CMD/BAT File
 Just click them after downloading. Super easy.
@@ -72,6 +64,15 @@ Maybe, ignore the Windows SmartScreen warnings and also add the program to the e
 Extract the file and run the setup. Then run the program from the start menu.
 <br>
 Maybe, ignore the Windows SmartScreen warnings and also add the program to the exceptions list of your antivirus.
+
+## How everything is built and how I can modify or view the code?
+### CMD/BAT File
+It is built using the traditional Windows NotePad, but you can view/modify the code using other Notepads such as NotePad++. The .bat file runs on COMMAND.COM (via NTVDM) or CMD.EXE and .cmd runs only on CMD.EXE.
+### PS1 File
+It is built from Windows PowerShell ISE and modified a bit using NotePad, to modify the code use either PowerShell ISE or Notepad applications. It runs on both Windows PowerShell (.NET Framework) and Microsoft PowerShell (.NET Core)
+### Portable EXE/SETUP ZIP
+It is built using Visual Basic 2015. To view/modify the code just open the project (.sln) file on Visual Basic 2015 or higher (not lower). This runs on .NET Framework 2.0 but you can change it in Visual Basic's Application Options.
+
 
 ## How every file format can do the same job?
 Well, every file format this repository offer is just sending the command "ipconfig /flushdns" to flush your dns cache either in PowerShell, Windows Command Processor, COMMAND.COM (via NTVDM) or directly into system shell (similar in nature as Windows + R or the Windows Run dialog). 
