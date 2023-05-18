@@ -19,23 +19,23 @@ Windows 7, 8, 8.1, 10, 11 and their Windows Server and LTSC counterparts with Mi
 
 ## Downloads
 ### In CMD File Format - Windows Command Processor (Newer and Safer)
-https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.cmd)
 <br>
 ### In BAT File Format - COMMAND.COM via NTVDM/Windows Command Processor (Legacy and Older)
-https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.bat)
 <br>
 ### In Portable EXE format - Win32 GUI App (Easily Transfer to other Devices)
-https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/DNS.Cache.Flusher.for.Windows.exe
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/DNS.Cache.Flusher.for.Windows.exe](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/DNS.Cache.Flusher.for.Windows.exe)
 <br>
 Note: Unsigned executables, may trigger Windows Defender Smartscreen or even your antiviruses.
 <br>
 ### In ZIP Setup Format - Win32 GUI App Setup File (Best for Permanent/Long Term Usage)
-https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip)
 <br>
 Note: Unsigned executables, may trigger Windows Defender Smartscreen or even your antiviruses.
 <br>
 ### In PS1 PowerShell Format - PowerShell App (Newest and Very Safe) 
-https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1
+[https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1](https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1)
 <br>
 Note: Unsigned script, you may need to enter "Set-ExecutionPolicy unrestricted" before running this script.
 
