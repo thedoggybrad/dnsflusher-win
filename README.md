@@ -32,6 +32,8 @@ Note: Unsigned executables, may trigger Windows Defender Smartscreen or even you
 ### In ZIP Setup Format - Win32 GUI App Setup File (Best for Permanent/Long Term Usage)
 https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/SETUP.DNS.CACHE.FLUSHER.zip
 <br>
+Note: Unsigned executables, may trigger Windows Defender Smartscreen or even your antiviruses.
+<br>
 ### In PS1 PowerShell Format - PowerShell App (Newest and Very Safe) 
 https://github.com/thedoggybrad/dnsflusher-win/releases/download/1.2.1/dnsflusher.ps1
 
